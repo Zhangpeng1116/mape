@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.5.4)  7 MAY 2017 11:31
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.5.4)  7 MAY 2017 15:19
 entering extended mode
-**E:/models/main.tex
-(E:/models/main.tex
+**E:/mape/main.tex
+(E:/mape/main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(E:\models\IEEEtran.cls
+(E:\mape\IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -318,7 +318,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-)) (E:\models\main.aux)
+)) (E:\mape\main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
@@ -474,9 +474,8 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 141--141
  [][] 
  []
 
-[2 <E:/models/figs/1a-eps-converted-to.pdf> <E:/models/figs/1b-eps-converted-to
-.pdf> <E:/models/figs/1c-eps-converted-to.pdf> <E:/models/figs/6-eps-converted-
-to.pdf>]
+[2 <E:/mape/figs/1a-eps-converted-to.pdf> <E:/mape/figs/1b-eps-converted-to.pdf
+> <E:/mape/figs/1c-eps-converted-to.pdf> <E:/mape/figs/6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figs/2.eps>
 (epstopdf)                    date: 2017-04-16 21:28:54
 (epstopdf)                    size: 509680 bytes
@@ -487,7 +486,7 @@ Package epstopdf Info: Source file: <figs/2.eps>
  figs/2.eps>
 (epstopdf)             \includegraphics on input line 157.
 Package epstopdf Info: Output file is already uptodate.
- <figs/2-eps-converted-to.pdf, id=47, 362.35374pt x 204.765pt>
+<figs/2-eps-converted-to.pdf, id=47, 362.35374pt x 204.765pt>
 File: figs/2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/2-eps-converted-to.pdf>
@@ -542,7 +541,7 @@ Underfull \hbox (badness 3701) in paragraph at lines 204--205
 []\OT1/ptm/m/n/10 We s-tud-ied the de-polarization in 6 chan-nel cross-
  []
 
-[3 <E:/models/figs/2-eps-converted-to.pdf>]
+[3 <E:/mape/figs/2-eps-converted-to.pdf>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -554,20 +553,20 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4 <E:/models/figs/3a-eps-converted-to.pdf> <E:/models/figs/3b-eps-converted-to
-.pdf>] (E:\models\main.aux)
+[4 <E:/mape/figs/3a-eps-converted-to.pdf> <E:/mape/figs/3b-eps-converted-to.pdf
+>] (E:\mape\main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
  4510 strings out of 495354
- 69412 string characters out of 3183860
+ 69394 string characters out of 3183860
  137795 words of memory out of 3000000
  7599 multiletter control sequences out of 15000+200000
  44598 words of font info for 103 fonts, out of 3000000 for 9000
  17 hyphenation exceptions out of 8191
- 42i,10n,40p,1401b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,40p,1399b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/CTex/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<D:/CTex/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmex10.pfb><D:/CTex/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
 i10.pfb><D:/CTex/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/CTex/MiKTe
@@ -576,7 +575,7 @@ msfonts/cm/cmr8.pfb><D:/CTex/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 D:/CTex/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTex/MiKTeX/fonts/type1/urw
 /times/utmbi8a.pfb><D:/CTex/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTex/Mi
 KTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 281289 bytes).
+Output written on main.pdf (4 pages, 281275 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
